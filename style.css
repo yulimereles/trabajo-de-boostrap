@@ -1,9 +1,6 @@
 
 body { background-image: url(Diseño\ sin\ título.png);
 background-repeat: repeat;
-    
-
-    
 }
 
 main {
@@ -26,25 +23,13 @@ main {
 }
 
 
-.card {
-    height: 28rem;
-    width: 19rem;
-}
 
-.sell {
-    max-height: 3.5rem;
-    color: #655ed1;
-    font-weight: bold;
-}
 
-.alone {
-    max-height: 3.5rem;
-    color: #121416;
-    font-weight: bold;
-}
-
-.alone .price, .sell .price {
-    font-size: 15px;
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
 }
 
 
