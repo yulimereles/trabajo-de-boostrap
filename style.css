@@ -1,0 +1,53 @@
+
+body { background-image: url(Diseño\ sin\ título.png);
+background-repeat: repeat;
+    
+
+    
+}
+
+main {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-header {
+   background-image: url(photo.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 93vh;
+    color: #fcf9f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card {
+    height: 28rem;
+    width: 19rem;
+}
+
+.sell {
+    max-height: 3.5rem;
+    color: #655ed1;
+    font-weight: bold;
+}
+
+.alone {
+    max-height: 3.5rem;
+    color: #121416;
+    font-weight: bold;
+}
+
+.alone .price, .sell .price {
+    font-size: 15px;
+}
+
+
+
+
+
